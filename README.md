@@ -1,7 +1,9 @@
 # Bankchurners-Data-analysis-with-SQL
 
 create database bankcustomers;
+
 use bankcustomers;
+
 select	* from bankchurners;
 
 /*Count number of column in the table*/
